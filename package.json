@@ -2,6 +2,7 @@
   "name": "learning_managements",
   "private": true,
   "version": "0.0.0",
+  "proxy":"https://lms-backend-sage-ten.vercel.app",
   "type": "module",
   "scripts": {
     "dev": "vite",
