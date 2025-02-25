@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://cors-anywhere.herokuapp.com/https://lms-backend-sage-ten.vercel.app/api/v1";
+const BASE_URL = "https://lms-backend-sage-ten.vercel.app/api/v1";
 
 const axiosInstance = axios.create();
 
